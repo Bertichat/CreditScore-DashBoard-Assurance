@@ -1,0 +1,2 @@
+API: https://bl-p7-api.herokuapp.com/docs
+DASHBOARD: https://share.streamlit.io/phenixmonde/p7/main/DASHBOARD/dashboard.py
